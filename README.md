@@ -68,37 +68,7 @@ This experiment introduced me to activation functions and the role of the chain 
 
 No machine learning frameworks are used in these experiments.
 
-## How to Run
-
-Make sure Python 3 is installed.
-
-Clone the repository:
-
-```bash
-git clone https://github.com/bishmaykesharipradhan-ops/neural_network-scalar-.scratch.git
-```
-
-Enter the repository directory:
-
-```bash
-cd neural_network-scalar-.scratch
-```
-
-Run any experiment:
-
-```bash
-python3 neuron_scalar.py
-```
-
-```bash
-python3 neural_network_linear_scalar.py
-```
-
-```bash
-python3 neural_network_non-linear_scalar.py
-```
-
-Each program generates its own random training data and initializes its parameters randomly, so results can vary between runs.
+NOTE - The experiments generate training data and initialize parameters within their scripts. Results may vary between runs when random initialization or random training data are used.
 
 ## Purpose
 
